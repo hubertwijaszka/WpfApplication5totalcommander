@@ -1,0 +1,115 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\DataModels\UserControl1.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\DataModels\UserControl1.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.g.cs
+C:\Users\Lenovo\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.baml
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.g.cs
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.baml
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.g.cs
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.g.cs
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.baml
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.baml
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.g.cs
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.g.cs
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.baml
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.baml
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\STUDIA\DRUGI SEMESTR\OBIEKTOWE\PROJEKT!!!\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.g.cs
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.g.cs
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.g.cs
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.cache
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander_MarkupCompile.lref
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.exe
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.pdb
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe.config
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.exe
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\bin\Debug\WpfApplication5totalcommander.pdb
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\ParentDirectoryView.baml
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\DiscElementsView.baml
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\View\UserControl1.baml
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.g.resources
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.Properties.Resources.resources
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\WpfApplication5totalcommander\WpfApplication5totalcommander\obj\Debug\WpfApplication5totalcommander.csproj.CoreCompileInputs.cache
